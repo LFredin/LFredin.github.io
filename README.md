@@ -1,1 +1,1 @@
-# Play the game at: https://lfredin.github.io/PuzzleGameDeluxe/ !
+# Play the game at: https://fredin-94.github.io/PuzzleGameDeluxe/ !
